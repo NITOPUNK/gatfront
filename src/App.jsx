@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import './App.css';
-import Form from './form';
+import Form from './Form';
 import Signin from './Signin'; // Ensure this is the correct import for the Signin component
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import necessary modules from react-router-dom
 
